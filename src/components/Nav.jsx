@@ -10,7 +10,7 @@ function Nav() {
                     flexDirection: 'row',
                     alignItems: 'flex-start',
                     justifyContent: 'flex-start',
-                    fontColor: 'white',
+                    
                 }}
             >
                 <div style={linkStyle}>
